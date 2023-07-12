@@ -1,0 +1,8 @@
+Command we learned :
+1. git config --global user.name "safalkhatiwada"
+2. git config --global user.email "khatiwadasafal10@gmail.com"
+3. git init - used for initialization
+4. git status - for checking the status 
+5. history - check the history to see the used commands in git bash
+6. git add "file name" - used to track the file or add the file(can click (tab) for auto fill-up)
+7. 
