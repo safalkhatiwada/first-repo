@@ -1,3 +1,5 @@
-1. Write the C-Programming codes for the follolwing questions listed:
+1.
 2. Prepare the story for the github session and complete the practical.
-3. 
+3. Do MDP assignments
+4. Practice for the upcoming tests
+5. Watch Deadpool together(RB)

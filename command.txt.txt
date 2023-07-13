@@ -5,4 +5,9 @@ Command we learned :
 4. git status - for checking the status 
 5. history - check the history to see the used commands in git bash
 6. git add "file name" - used to track the file or add the file(can click (tab) for auto fill-up)
-7. 
+
+
+DAY - 2: 
+1. SSH key: 
+    types - private key,public key
+
