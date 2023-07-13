@@ -1,3 +1,4 @@
+DAY - 1:
 Command we learned :
 1. git config --global user.name "safalkhatiwada"
 2. git config --global user.email "khatiwadasafal10@gmail.com"
@@ -9,5 +10,8 @@ Command we learned :
 
 DAY - 2: 
 1. SSH key: 
-    types - private key,public key
+    types - private key, public key
 
+2. git remote add origin -                       //origin - //
+3. staging - modified file lai add garnu cha bhaney tellai matrai staging garneyyy.
+4. git push origin - commit gareko kura push garney master branch ma
